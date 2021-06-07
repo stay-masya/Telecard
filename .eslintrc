@@ -1,0 +1,14 @@
+{
+  "root": true,
+  "extends": [
+    "react-app",
+    "prettier"
+  ],
+  "plugins": [
+    "prettier"
+  ],
+  "rules": {
+    "no-sequences": "off",
+    "prettier/prettier": "error"
+  }
+}
